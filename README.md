@@ -56,3 +56,6 @@ Development Activities
   4. Test the data load
   <img width="1314" height="638" alt="image" src="https://github.com/user-attachments/assets/d9f05bca-55e9-4574-a110-d64976321266" />
 
+- Monitoring & Auditing
+  <img width="1600" height="883" alt="image" src="https://github.com/user-attachments/assets/488aa09f-3acd-415f-a17a-012af75bcc15" />
+
