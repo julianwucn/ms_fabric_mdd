@@ -17,7 +17,8 @@ Key Features
 
 Sample Architecture
   ![image](https://github.com/user-attachments/assets/6963fe35-e49d-4821-90f1-d92a172e4f67)
-  
+  <img width="1571" height="982" alt="image" src="https://github.com/user-attachments/assets/1be9f2b3-2299-4d6c-beab-26cffbb89cad" />
+
   ![image](https://github.com/user-attachments/assets/b0839581-9cd8-438e-9a67-92bb2602e5bb)
   ![image](https://github.com/user-attachments/assets/0ffafe32-3550-483e-bb8f-25b7065b50b8)
 
