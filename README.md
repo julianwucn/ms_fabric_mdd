@@ -17,14 +17,13 @@ Key Features
 - Built-in data orchestration based on notebook DAG
 
 Sample Architecture
-  ![image](https://github.com/user-attachments/assets/6963fe35-e49d-4821-90f1-d92a172e4f67)
-  <img width="1571" height="982" alt="image" src="https://github.com/user-attachments/assets/1be9f2b3-2299-4d6c-beab-26cffbb89cad" />
-
+  <img width="1928" height="858" alt="image" src="https://github.com/user-attachments/assets/a8d46eb4-b271-459c-af9c-6263d0354840" />
   ![image](https://github.com/user-attachments/assets/b0839581-9cd8-438e-9a67-92bb2602e5bb)
   ![image](https://github.com/user-attachments/assets/0ffafe32-3550-483e-bb8f-25b7065b50b8)
 
 Sample Demo 
-  <img width="1928" height="858" alt="image" src="https://github.com/user-attachments/assets/92ae2201-2d24-41da-9c87-b322984cf049" />
+  <img width="2000" height="169" alt="image" src="https://github.com/user-attachments/assets/545957a5-2046-4f49-a3c4-aed3f7e51219" />
+  <img width="1938" height="477" alt="image" src="https://github.com/user-attachments/assets/ccc8f1ca-73d2-4d2c-9a9a-9624354a8e8e" />
   <img width="1307" height="497" alt="image" src="https://github.com/user-attachments/assets/3b1883ac-9ebd-41d2-81dd-7de093039b38" />
 
 - Onboard/Ingestion
