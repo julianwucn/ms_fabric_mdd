@@ -24,7 +24,7 @@ Sample Architecture
   ![image](https://github.com/user-attachments/assets/0ffafe32-3550-483e-bb8f-25b7065b50b8)
 
 Sample Demo 
-  <img width="1370" height="542" alt="image" src="https://github.com/user-attachments/assets/fe4dd8d1-0d1a-4089-a8de-3d5abf4cabdb" />
+  <img width="1928" height="858" alt="image" src="https://github.com/user-attachments/assets/92ae2201-2d24-41da-9c87-b322984cf049" />
   <img width="1307" height="497" alt="image" src="https://github.com/user-attachments/assets/3b1883ac-9ebd-41d2-81dd-7de093039b38" />
 
 - Onboard/Ingestion
