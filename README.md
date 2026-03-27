@@ -16,16 +16,19 @@ Key Features
 - Built-in data orchestration based on notebook DAG
 
 Sample Architecture
-![image](https://github.com/user-attachments/assets/6963fe35-e49d-4821-90f1-d92a172e4f67)
-
-![image](https://github.com/user-attachments/assets/b0839581-9cd8-438e-9a67-92bb2602e5bb)
-![image](https://github.com/user-attachments/assets/0ffafe32-3550-483e-bb8f-25b7065b50b8)
+  ![image](https://github.com/user-attachments/assets/6963fe35-e49d-4821-90f1-d92a172e4f67)
+  
+  ![image](https://github.com/user-attachments/assets/b0839581-9cd8-438e-9a67-92bb2602e5bb)
+  ![image](https://github.com/user-attachments/assets/0ffafe32-3550-483e-bb8f-25b7065b50b8)
 
 Sample Demo 
   <img width="1370" height="542" alt="image" src="https://github.com/user-attachments/assets/fe4dd8d1-0d1a-4089-a8de-3d5abf4cabdb" />
 
 - Meta-data Driven ETL - ETL based on configuration
   <img width="1307" height="497" alt="image" src="https://github.com/user-attachments/assets/3b1883ac-9ebd-41d2-81dd-7de093039b38" />
+  <img width="1249" height="571" alt="image" src="https://github.com/user-attachments/assets/b2777152-0342-4b58-8dca-297f402ce199" />
+  <img width="1120" height="590" alt="image" src="https://github.com/user-attachments/assets/b2b9319b-8b55-4012-82fa-1968412e2409" />
+  <img width="995" height="591" alt="image" src="https://github.com/user-attachments/assets/e6264cd7-f071-4ae0-a535-3f6ece7fb826" />
 
 - Full Logging
   <img width="1366" height="582" alt="image" src="https://github.com/user-attachments/assets/35d52788-3425-447b-a2d3-0664b1f69bbb" />
