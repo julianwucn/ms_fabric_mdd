@@ -18,7 +18,6 @@ Key Features
 Sample Architecture
 ![image](https://github.com/user-attachments/assets/6963fe35-e49d-4821-90f1-d92a172e4f67)
 
-Metadata Driven Framework
 ![image](https://github.com/user-attachments/assets/b0839581-9cd8-438e-9a67-92bb2602e5bb)
 ![image](https://github.com/user-attachments/assets/0ffafe32-3550-483e-bb8f-25b7065b50b8)
 
