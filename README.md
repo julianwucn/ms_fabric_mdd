@@ -1,4 +1,4 @@
-# MS_Fabric_MDD - Save at least 50% data engineering effort!
+# MS_Fabric_MDD - production-ready, save at least 50% data engineering effort!
 A declarative metadata-driven ETL framework developed using PySpark and Lakehouse and/or data warehouse architecture on Microsoft Fabric, enabling end-to-end data process automation based on configurations defined in YAML files.
 
 Key Features
