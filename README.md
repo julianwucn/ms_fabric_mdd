@@ -25,6 +25,8 @@ Sample Demo
   <img width="1370" height="542" alt="image" src="https://github.com/user-attachments/assets/fe4dd8d1-0d1a-4089-a8de-3d5abf4cabdb" />
 
 - Meta-data Driven ETL - ETL based on configuration
+  <img width="1261" height="609" alt="image" src="https://github.com/user-attachments/assets/38734dbc-676f-4d82-a220-2bdd445935cb" />
+
   <img width="1307" height="497" alt="image" src="https://github.com/user-attachments/assets/3b1883ac-9ebd-41d2-81dd-7de093039b38" />
   <img width="1249" height="571" alt="image" src="https://github.com/user-attachments/assets/b2777152-0342-4b58-8dca-297f402ce199" />
   <img width="1120" height="590" alt="image" src="https://github.com/user-attachments/assets/b2b9319b-8b55-4012-82fa-1968412e2409" />
