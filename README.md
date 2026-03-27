@@ -23,29 +23,35 @@ Sample Architecture
 
 Sample Demo 
   <img width="1370" height="542" alt="image" src="https://github.com/user-attachments/assets/fe4dd8d1-0d1a-4089-a8de-3d5abf4cabdb" />
+  <img width="1307" height="497" alt="image" src="https://github.com/user-attachments/assets/3b1883ac-9ebd-41d2-81dd-7de093039b38" />
 
-- Meta-data Driven ETL - ETL based on configuration
+- Onboard/Ingestion
   <img width="1261" height="609" alt="image" src="https://github.com/user-attachments/assets/38734dbc-676f-4d82-a220-2bdd445935cb" />
 
-  <img width="1307" height="497" alt="image" src="https://github.com/user-attachments/assets/3b1883ac-9ebd-41d2-81dd-7de093039b38" />
+- Transform/Load
   <img width="1249" height="571" alt="image" src="https://github.com/user-attachments/assets/b2777152-0342-4b58-8dca-297f402ce199" />
-  <img width="1120" height="590" alt="image" src="https://github.com/user-attachments/assets/b2b9319b-8b55-4012-82fa-1968412e2409" />
   <img width="995" height="591" alt="image" src="https://github.com/user-attachments/assets/e6264cd7-f071-4ae0-a535-3f6ece7fb826" />
 
-- Full Logging
-  <img width="1366" height="582" alt="image" src="https://github.com/user-attachments/assets/35d52788-3425-447b-a2d3-0664b1f69bbb" />
-
-  <img width="1360" height="572" alt="image" src="https://github.com/user-attachments/assets/8958b4a4-bbc6-4c61-9861-1ba8fba31fff" />
-
-  <img width="1377" height="522" alt="image" src="https://github.com/user-attachments/assets/d3e9781d-5b3c-4f7f-8b5d-397cbb3b6fdd" />
-
-- Data Quality
+- Data Validation
+  <img width="1120" height="590" alt="image" src="https://github.com/user-attachments/assets/b2b9319b-8b55-4012-82fa-1968412e2409" />
   <img width="1375" height="647" alt="image" src="https://github.com/user-attachments/assets/d36c25eb-a678-4799-8774-638a4f77cb5d" />
+  
+- Full Logging
+  <img width="1360" height="572" alt="image" src="https://github.com/user-attachments/assets/8958b4a4-bbc6-4c61-9861-1ba8fba31fff" />
+  <img width="1377" height="522" alt="image" src="https://github.com/user-attachments/assets/d3e9781d-5b3c-4f7f-8b5d-397cbb3b6fdd" />
+  <img width="1366" height="582" alt="image" src="https://github.com/user-attachments/assets/35d52788-3425-447b-a2d3-0664b1f69bbb" />
 
 Development Demo
 - Onboard/ingestion
+  1. Define the bronze table
+  2. Prepare the configurations
+  3. Test the data ingestion
   <img width="1372" height="666" alt="image" src="https://github.com/user-attachments/assets/99ad4c19-4490-4704-8479-fc695a8cf4d4" />
 
 - Transform/load
+  1. Define the gold table
+  2. Prepare the configurations
+  3. Compile the business logic
+  4. Test the data load
   <img width="1314" height="638" alt="image" src="https://github.com/user-attachments/assets/d9f05bca-55e9-4574-a110-d64976321266" />
 
