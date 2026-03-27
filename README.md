@@ -41,7 +41,7 @@ Sample Demo
   <img width="1377" height="522" alt="image" src="https://github.com/user-attachments/assets/d3e9781d-5b3c-4f7f-8b5d-397cbb3b6fdd" />
   <img width="1366" height="582" alt="image" src="https://github.com/user-attachments/assets/35d52788-3425-447b-a2d3-0664b1f69bbb" />
 
-Development Demo
+Development Activities
 - Onboard/ingestion
   1. Define the bronze table
   2. Prepare the configurations
