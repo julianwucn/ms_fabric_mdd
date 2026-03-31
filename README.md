@@ -5,7 +5,7 @@ A declarative metadata-driven ETL framework developed using PySpark and Lakehous
 Key Features
 - Declarative ETL, data engineers define the desired end state of the transformed data, and the ETL tool automatically generates the code to transform the data into that end state
 - Align with medallion architecture with customizable bronze, silver and gold layers
-- Support the data ingestion of different sources and flat files of csv, text, json, orc, parquet, table, jdbc, excel, xml and dbf
+- Support the incremental data ingestion of different sources, like SQL Server, Oracle, Restful APIs, and flat files of csv, text, json, orc, parquet, table, jdbc, excel, xml and dbf
 - Support multiple data refresh strategies: full, incremental and backfill
 - Support multiple incremental data refresh options: CDF and timestamp, auto fallback to backfill or full data refresh options if in recent not-synced CDF data is purged
 - Support multiple data write options: append, merge, overwrite
